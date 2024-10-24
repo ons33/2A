@@ -12,8 +12,8 @@ $newUser = [
 ];
 
 // Appeler la fonction pour ajouter l'utilisateur
-$userController->addUser($newUser);
+//$userController->addUser($newUser);
 
 // Afficher un message pour confirmer l'ajout
-echo "Utilisateur ajouté avec succès.";
+//echo "Utilisateur ajouté avec succès.";
 ?>
